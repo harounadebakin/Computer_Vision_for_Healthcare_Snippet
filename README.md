@@ -1,0 +1,1 @@
+Replication of the TinyVGG CNN architecture on the CNN explainer website. This snippet introduces the power of deep learning for healthcare, especially in medical image analysis. It is the first of a series I'll be introducing, till we get to the usage of nnUnet, SwinUnet and TransBTS
